@@ -8,4 +8,6 @@ AdaptiveFit is an application for adapting the training process using artificial
 
 ## Some new section here
 
+## Conflict
+
 #Change number 29
